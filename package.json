@@ -9,7 +9,7 @@
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "update-styles": "git subtree pull --prefix src/styles https://github.com/LBC-Starter-Kits/sass-7-1-pattern.git main --squash"
+    "update-styles": "git subtree pull --prefix src/styles https://github.com/LBCDev-Libs/sass-7-1-pattern.git main --squash"
   },
   "dependencies": {
     "astro": "^1.2.7",
